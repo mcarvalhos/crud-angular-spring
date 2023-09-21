@@ -2,21 +2,21 @@
   {
     "_id": "1",
     "name": "Angular",
-    "category": "Front-end"
+    "category": "front-end"
   },
   {
     "_id": "2",
     "name": "React JS",
-    "category": "Front-end"
+    "category": "front-end"
   },
   {
     "_id": "3",
     "name": "Vue JS",
-    "category": "Front-end"
+    "category": "front-end"
   },
   {
     "_id": "4",
     "name": "CSharp",
-    "category": "Back-end"
+    "category": "back-end"
   }
 ]
