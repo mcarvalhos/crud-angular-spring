@@ -9,7 +9,8 @@ import { delay, first, tap } from 'rxjs';
 })
 export class CoursesService {
 
-  private readonly API = '/assets/courses.json';
+  private readonly API = 'api/courses';
+
   constructor(private httpClient: HttpClient) { }
 
   list() { // Esse "Course[]" é opcional e serve pra mostra de forma mais simples que está retornando uma lista de cursos;
